@@ -1,0 +1,43 @@
+#rohith
+{
+width: 700px;
+height: 600px;
+background-color: rgb(11, 230, 223);
+margin top: 100px;
+margin bottom: 100px;
+border: 5px solid;
+padding: 6%;
+border:
+
+}
+#rohith1{
+    width: 600px;
+    height: 500px;
+    padding: 5%;
+    background-color: rgb(52, 226, 43);
+    margin top: 55px;
+    margin bottom: 55px;
+    border: 5px solid;
+    
+}
+#rohith2{
+    width: 500px;
+height: 400px;
+background-color: rgb(102, 11, 230);
+margin-top: 30px;
+margin-bottom: 30px;
+border: 5px solid;
+padding: 4%;
+       
+}
+#rohith3{
+
+    width: 400px;
+    height: 300px;
+    padding: 3%;
+    background-color: rgba(226, 43, 150, 0.856);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 5px solid;
+
+}
